@@ -69,3 +69,9 @@ body {
 .carousel-item p {
     text-align: left;
 }
+
+#carouselButton {  
+    right: 0px;
+    position: absolute; 
+    bottom: 0px;
+}
